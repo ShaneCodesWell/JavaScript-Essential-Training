@@ -38,6 +38,7 @@ const iPhone = {
 };
 
 console.log("Papa's Iphone", iPhone);
+console.log("Iphone Price", iPhone.price);
 
 var query = "color";
 
